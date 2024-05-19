@@ -1,0 +1,7 @@
+{
+    "name": "Player2",
+    "level": 0,
+    "maximumhealth": 30,
+    "attack": 5
+  
+}

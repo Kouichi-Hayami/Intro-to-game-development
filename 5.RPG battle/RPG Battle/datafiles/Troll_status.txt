@@ -1,0 +1,5 @@
+{
+    "name": "Troll",
+    "maximumhealth": 15,
+    "xp": 10
+}

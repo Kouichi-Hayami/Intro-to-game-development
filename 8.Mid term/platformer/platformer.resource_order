@@ -1,0 +1,15 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
+    {"name":"sPlayerJump","order":6,"path":"sprites/sPlayerJump/sPlayerJump.yy",},
+    {"name":"sPlayerIdle_strip4","order":5,"path":"sprites/sPlayerIdle_strip4/sPlayerIdle_strip4.yy",},
+    {"name":"sWall","order":7,"path":"sprites/sWall/sWall.yy",},
+    {"name":"sBackground","order":3,"path":"sprites/sBackground/sBackground.yy",},
+    {"name":"sCoin_strip12","order":4,"path":"sprites/sCoin_strip12/sCoin_strip12.yy",},
+    {"name":"aCoin","order":2,"path":"sounds/aCoin/aCoin.yy",},
+    {"name":"sTileset","order":1,"path":"sprites/sTileset/sTileset.yy",},
+    {"name":"oCamera","order":2,"path":"objects/oCamera/oCamera.yy",},
+    {"name":"oCoin","order":3,"path":"objects/oCoin/oCoin.yy",},
+  ],
+}

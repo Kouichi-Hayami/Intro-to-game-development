@@ -1,0 +1,6 @@
+{
+    "name": "Orc",
+    "maximumhealth": 10,
+    "xp": 5
+
+}
